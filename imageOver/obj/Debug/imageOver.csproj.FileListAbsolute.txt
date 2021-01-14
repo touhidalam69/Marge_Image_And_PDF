@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\files\inputPdf.pdf
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\files\inputImage.png
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\imageOver.exe.config
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\imageOver.exe
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\imageOver.pdb
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\imageOver\imageOver\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\imageOver\imageOver\obj\Debug\imageOver.exe
+C:\Users\Administrator\Desktop\imageOver\imageOver\obj\Debug\imageOver.pdb
+C:\Users\Administrator\Desktop\imageOver\imageOver\obj\Debug\imageOver.csprojResolveAssemblyReference.cache
